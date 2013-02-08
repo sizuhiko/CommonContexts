@@ -1,6 +1,6 @@
 {
-    "name":         "behat/common-contexts",
-    "description":  "Commonly used contexts for Behat",
+    "name":         "sizuhiko/common-contexts",
+    "description":  "Forked Commonly used contexts for Behat. With Pull Request #31",
     "keywords":     ["BDD", "Behat", "Symfony2", "Context"],
     "homepage":     "http://behat.org/",
     "type":         "library",
